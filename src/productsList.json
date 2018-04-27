@@ -1,0 +1,114 @@
+[
+    {
+       "id": 1,
+       "product": "LAPTOP",
+       "price": "25000",
+       "image" : "/app/images/laptop_image.jpg",
+       "category" : "LAPTOP"
+    },
+    {
+       "id": 2,
+       "product": "TV",
+       "price": "20000",
+       "image" : "/app/images/tv_image.jpg",
+       "category" : "TV"
+    },
+    {
+       "id": 3,
+       "product": "CHAIR",
+       "price": "5000",
+       "image" : "/app/images/chair_image.jpg",
+       "category" : "CHAIR"
+    },
+    {
+       "id": 4,
+       "product": "DESK",
+       "price": "5000",
+       "image" : "/app/images/desk_image.jpg",
+       "category" : "DESK"
+    },
+    {
+       "id": 5,
+       "product": "WASHING MACHINE",
+       "price": "10000",
+       "image" : "/app/images/washingmachine_image.jpg",
+       "category" : "WASHING MACHINE"
+    },
+    {
+       "id": 6,
+       "product": "FAN",
+       "price": "3000",
+       "image" : "/app/images/fan_image.jpg",
+       "category" : "FAN"
+    },
+    {
+       "id": 7,
+       "product": "COLOR BOX",
+       "price": "600",
+       "image" : "/app/images/colorbox_image.jpg",
+       "category" : "COLOR BOX"
+    },
+    {
+        "id": 8,
+        "product": "Christmas Vase Flower Bouquet",
+        "price": "600",
+        "image" : "/app/images/Christmas Vase Flower Bouquet.jpg",
+        "category" : "FLOWER"
+    },
+    {
+        "id": 9,
+        "product": "Fairtrade® Pink Roses",
+        "price": "600",
+        "image" : "/app/images/Fairtrade® Pink Roses.jpg",
+        "category" : "FLOWER"
+    },
+    {
+        "id": 10,
+        "product": "Happy Birthday Flower Bouquet",
+        "price": "600",
+        "image" : "/app/images/Happy Birthday Flower Bouquet.jpg",
+        "category" : "FLOWER"
+    },
+    {
+        "id": 11,
+        "product": "Pink & Lilac Rose & Freesia Wedding Flowers - Collection 4",
+        "price": "600",
+        "image" : "/app/images/Pink & Lilac Rose & Freesia Wedding Flowers - Collection 4.jpg",
+        "category" : "FLOWER"
+    },
+    {
+        "id": 12,
+        "product": "Rose & Freesia Gift Bag4",
+        "price": "600",
+        "image" : "/app/images/Rose & Freesia Gift Bag.jpg",
+        "category" : "FLOWER"
+    },
+    {
+        "id": 13,
+        "product": "Summer Brights Gift Bag",
+        "price": "600",
+        "image" : "/app/images/Summer Brights Gift Bag.jpg",
+        "category" : "FLOWER"
+    },
+    {
+        "id": 14,
+        "product": "The Collection Freedom Roses",
+        "price": "600",
+        "image" : "/app/images/The Collection Freedom Roses.jpg",
+        "category" : "FLOWER"  
+    },
+    {
+        "id": 15,
+        "product": "White & Pink Luxury Rose Wedding Flowers - Collection 1",
+        "price": "600",
+        "image" : "/app/images/White & Pink Luxury Rose Wedding Flowers - Collection 1.jpg",
+        "category" : "FLOWER"  
+    },
+    {
+        "id": 16,
+        "product": "White Rose & Freesia Wedding Flowers - Collection 1",
+        "price": "600",
+        "image" : "/app/images/White Rose & Freesia Wedding Flowers - Collection 1.jpg",
+        "category" : "FLOWER"  
+    }
+ ]

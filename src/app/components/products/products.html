@@ -1,0 +1,29 @@
+<!-- <h1 class="header">hello</h1>
+<div class="table-responsive">
+<table class="table table-striped">
+    <tr>
+        <th>ID</th>
+        <th>Products</th>
+        <th>Price</th>
+        <th>Image</th>
+    </tr>
+    <tr ng-repeat="product in productsList|filter:$ctrl.term">
+        <td>{{product.id}}</td>
+        <td><a ui-sref="productDetails">{{product.product}}</a></td>
+        <td>{{product.price}}</td>
+        <td><img ng-src={{product.image}} alt="Smiley face"  height="80px" width="80px"></td>
+    </tr>
+</table>
+</div> -->
+<header-component></header-component>
+<h1 class="header">hello</h1>
+<div class="container">
+<div class="row">
+    <div class="col-xs-6 col-md-4" ng-repeat="product in printme|filter:$scope.smallterm">
+            <a ui-sref="productDetails">
+       <div> <img ng-src={{product.image}} alt="Smiley face" class="center_image" ></div>
+        <div style="text-align:center">{{product.product}}</div>
+        <div style="text-align:center"><label>Price:</label>{{product.price}}</div></a>
+    </div>
+</div>
+</div>
